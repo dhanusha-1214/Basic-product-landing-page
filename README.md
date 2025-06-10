@@ -15,4 +15,16 @@ A simple and responsive product landing page built using the fundamentals of **H
 - CSS3 (Flexbox & Media Queries)
 - Vanilla JavaScript (for smooth scrolling & basic interaction)
 
+## Demo
+![Landing Page Demo](demo-screenshot.png)
+
+## 📂 Project Structure
+basic-product-landing-page/
+│
+├── index.html
+├── styles/
+│ └── style.css
+├── scripts/
+│ └── main.js
+└── README.md
 
