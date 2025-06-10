@@ -16,7 +16,7 @@ A simple and responsive product landing page built using the fundamentals of **H
 - Vanilla JavaScript (for smooth scrolling & basic interaction)
 
 ## Demo
-![Landing Page Demo](demo-screenshot.png)
+![Landing Page Demo]("C:\Users\dhanu\Pictures\Screenshots\demo-screenshot.png")
 
 ## 📂 Project Structure
 basic-product-landing-page/
