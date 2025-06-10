@@ -22,6 +22,6 @@ basic-product-landing-page/
 ├── styles/
 │ └── style.css
 ├── scripts/
-│ └── main.js
+│ └── script.js
 └── README.md
 
